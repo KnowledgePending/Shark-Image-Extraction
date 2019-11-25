@@ -1,3 +1,8 @@
+<img src="https://bryanflood.ie/img/shark1.png" display="inline-block"
+    margin-left=" auto"
+    margin-right=" auto"
+    width="60%" ></img>
+
 # Shark-Image-Extraction
 🦈🔬Underwater Shark Image Extraction Without Machine Learning  
   
