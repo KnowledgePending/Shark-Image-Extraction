@@ -1,7 +1,13 @@
-<img src="https://bryanflood.ie/img/shark1.png" display="inline-block"
+<div>
+    <img src="./images/shark1.png" display="inline-block"
     margin-left=" auto"
     margin-right=" auto"
-    width="60%" ></img>
+    width="49%" ></img>
+    <img src="./images/shark2.png" display="inline-block"
+    margin-left=" auto"
+    margin-right=" auto"
+    width="49%"></img>
+</div>
 
 # Shark-Image-Extraction
 🦈🔬Underwater Shark Image Extraction Without Machine Learning  
